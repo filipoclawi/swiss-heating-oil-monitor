@@ -1,0 +1,187 @@
+{
+  "updated_at": "2026-06-20T09:25:29+02:00",
+  "assessment": {
+    "recommendation": "BUY / REQUEST QUOTE",
+    "short": "Looks like a reasonable buying window. Request a quote if the tank needs refill.",
+    "score": 4,
+    "reasons": [
+      "Swiss benchmark is 39.14 CHF/100l below 3 months ago",
+      "1-week move is lower (-1.86 CHF/100l)",
+      "local 5,000l benchmark is close to 3-year average (107.38 vs 106.36)",
+      "market news has upward-risk language: fester, stützt, angespannt, unsicherheit",
+      "market news still has price-window/downward language: unter druck, drückt"
+    ],
+    "up_hits": [
+      "fester",
+      "stützt",
+      "angespannt",
+      "unsicherheit",
+      "hormus",
+      "iran"
+    ],
+    "down_hits": [
+      "unter druck",
+      "drückt"
+    ],
+    "price_position": {
+      "local_5000": 107.38,
+      "national": 112.62,
+      "diff_1w": -1.86,
+      "diff_3m": -39.14,
+      "avg_3y": 106.36,
+      "low_3y": 89.57,
+      "high_3y": 164.12
+    }
+  },
+  "prices": {
+    "local_best": {
+      "3000": {
+        "Change": 0,
+        "DateTime": "2026-06-20T09:25:27.1973761+02:00",
+        "Price": 108.38
+      },
+      "5000": {
+        "Change": 0,
+        "DateTime": "2026-06-20T09:25:27.3122352+02:00",
+        "Price": 107.38
+      },
+      "10000": {
+        "Change": 0,
+        "DateTime": "2026-06-20T09:25:27.4266105+02:00",
+        "Price": 106.21
+      }
+    },
+    "national_best": {
+      "Change": 0,
+      "DateTime": "2026-06-20T09:25:27.5388203+02:00",
+      "Price": 112.62
+    },
+    "faq": {
+      "countryAvg": 112.62,
+      "diffrence1W": -1.86,
+      "diffrence3M": -39.14,
+      "low3Y": 89.57,
+      "high3Y": 164.12,
+      "average3Y": 106.36,
+      "low3YDate": "2025-06-01T00:00:00",
+      "high3YDate": "2026-04-06T00:00:00"
+    },
+    "factors": {
+      "Factors": [
+        {
+          "Id": 1,
+          "Name": "Nordseeöl",
+          "Price": 80.38,
+          "Currency": "$",
+          "Unit": "Barrel",
+          "Change": 0
+        },
+        {
+          "Id": 2,
+          "Name": "Gasöl",
+          "Price": 906.25,
+          "Currency": "$",
+          "Unit": "Tonne",
+          "Change": 0
+        },
+        {
+          "Id": 3,
+          "Name": "Euro/Dollar",
+          "Price": 1.1468,
+          "Currency": "$",
+          "Unit": "",
+          "Change": 0
+        },
+        {
+          "Id": 4,
+          "Name": "USD/CHF",
+          "Price": 0.8064,
+          "Currency": "CHF",
+          "Unit": "",
+          "Change": 0
+        },
+        {
+          "Id": 5,
+          "Name": "US-Rohöl",
+          "Price": 77.54,
+          "Currency": "$",
+          "Unit": "Barrel",
+          "Change": 0
+        },
+        {
+          "Id": 6,
+          "Name": "Rohöl in Euro",
+          "Price": 70.09068712940355,
+          "Currency": "€",
+          "Unit": "Barrel",
+          "Change": 0
+        },
+        {
+          "Id": 7,
+          "Name": "Gasöl in Euro",
+          "Price": 790.2424136728287,
+          "Currency": "€",
+          "Unit": "Tonne",
+          "Change": 0
+        }
+      ],
+      "Forecast": 0,
+      "HasForecast": false,
+      "TimeStamp": "2026-06-20T00:00:00",
+      "Price": 112.62,
+      "Change": 0
+    },
+    "zurich": {
+      "GroupTitle": 336,
+      "Link": null,
+      "DateTime": "2026-06-20T00:00:00",
+      "Price": 110.25
+    }
+  },
+  "news": [
+    {
+      "source": "Oel-Hauser Marktinfos",
+      "title": "Unsicherheit um USA-Iran-Verhandlungen stützt Preise trotz Friedensabkommen",
+      "date": "19. Juni 2026",
+      "summary": "Die internationalen Ölmärkte bleiben weiterhin von geopolitischen Entwicklungen geprägt. Zwar haben die USA und der Iran in dieser Woche ein erstes Friedens- und Rahmenabkommen unterzeichnet, dennoch sorgen neue Unsicherheiten für anhaltende Nervosität an den Börsen. Im Mittelpunkt steht derzeit die Frage, ob aus der Absichtserklärung innerhalb der kommenden Wochen ein dauerhaftes Abkommen entstehen kann. Die ursprünglich für heute in der Schweiz geplanten Gespräche über die Ausgestaltung eines endgültigen Vertrags wurden vorerst verschoben. Hintergrund sind die weiterhin andauernden Kampfhandlungen zwischen Israel und der vom Iran unterstützten Hisbollah im Libanon. Der Iran macht Fortschri",
+      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/unsicherheit-um-usa-iran-verhandlungen-stuetzt-preise-trotz-friedensabkommen"
+    },
+    {
+      "source": "Oel-Hauser Marktinfos",
+      "title": "Vorzeitige Unterzeichnung des USA-Iran-Abkommens drückt die Preise",
+      "date": "18. Juni 2026",
+      "summary": "Die internationalen Ölmärkte standen in dieser Woche weiterhin unter dem Einfluss geopolitischer Entwicklungen im Nahen Osten. Nachdem die Rohölpreise zwischenzeitlich von rückläufigen US-Lagerbeständen und Sorgen um die Versorgungslage gestützt wurden, sorgte die überraschend schnelle Unterzeichnung des USA-Iran-Abkommens für deutlichen Preisdruck. Ursprünglich war die offizielle Unterzeichnung des Abkommens erst für Freitag in der Schweiz erwartet worden. Nach Angaben beider Seiten wurde das Rahmenabkommen jedoch bereits am Mittwoch unterzeichnet und trat mit sofortiger Wirkung in Kraft. Die Vereinbarung sieht unter anderem eine sofortige Beendigung militärischer Aktivitäten sowie die schr",
+      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/vorzeitige-unterzeichnung-des-usa-iran-abkommens-drueckt-die-preise"
+    },
+    {
+      "source": "Oel-Hauser Marktinfos",
+      "title": "Preise weiter unter Druck",
+      "date": "17. Juni 2026",
+      "summary": "Die Ölpreise standen am Dienstag erneut unter Druck und gaben deutlich nach. Auslöser waren vor allem anhaltende Unsicherheiten rund um das geplante Abkommen zwischen den USA und Iran sowie neue Sorgen über die globale Ölnachfrage. Gleichzeitig belasteten gesenkte Preisprognosen grosser Banken und ein etwas stärkerer US-Dollar die Märkte zusätzlich. Brent-Rohöl fiel erstmals seit Anfang März wieder unter die Marke von 80 US-Dollar je Barrel. Auch Gasoil verzeichnete deutliche Verluste. Für den Heizölmarkt ergeben sich dadurch weiterhin rechnerische Spielräume für Preisnachlässe. Unterstützend wirkten dagegen Meldungen über sinkende US-Rohölbestände. Nach Angaben des American Petroleum Instit",
+      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/preise-weiter-unter-druck"
+    },
+    {
+      "source": "Oel-Hauser Marktinfos",
+      "title": "Zwischen Euphorie und Vorsicht – Ölmarkt bleibt nach Iran-Abkommen angespannt",
+      "date": "16. Juni 2026",
+      "summary": "Die Ölpreise sind zu Wochenbeginn deutlich gesunken, nachdem sich die USA und der Iran auf ein vorläufiges Abkommen verständigt haben. Die Aussicht auf eine Entspannung im Nahen Osten und mögliche Lockerungen von Sanktionen sorgte zunächst für Optimismus an den Märkten. Trotz der positiven Signale bleiben jedoch erhebliche Unsicherheiten bestehen. Besonders die Lage in der Strasse von Hormus, einer der wichtigsten Öltransitrouten der Welt, sorgt weiterhin für Zurückhaltung. Die Räumung von Minen könnte sich über Wochen hinziehen, zudem plant der Iran offenbar künftig Transitgebühren für die Passage zu erheben. Marktteilnehmer gehen daher davon aus, dass eine vollständige Normalisierung der Ö",
+      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/zwischen-euphorie-und-vorsicht-oelmarkt-bleibt-nach-iran-abkommen-angespannt"
+    },
+    {
+      "source": "HeizOel24",
+      "title": "Oelpreise Wieder Fester Libanon Bleibt Wackelkandidat 19 06 2026",
+      "url": "https://www.heizoel24.ch/news/artikel/005288-oelpreise-wieder-fester-libanon-bleibt-wackelkandidat-19-06-2026"
+    },
+    {
+      "source": "HeizOel24",
+      "title": "Iran Deal Ist Besiegelt Heizoel Wird Guenstiger 18 06 2026",
+      "url": "https://www.heizoel24.ch/news/artikel/005287-iran-deal-ist-besiegelt-heizoel-wird-guenstiger-18-06-2026"
+    },
+    {
+      "source": "HeizOel24",
+      "title": "Heizoel Strategie Update 2026 Die Gelegenheit Ist Guenstig 17 06 2026",
+      "url": "https://www.heizoel24.ch/news/artikel/005286-heizoel-strategie-update-2026-die-gelegenheit-ist-guenstig-17-06-2026"
+    }
+  ],
+  "note": "This public page contains only public benchmark market data. It intentionally excludes private property, personal and order details."
+}
