@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T09:26:39+02:00",
+  "updated_at": "2026-06-20T09:26:57+02:00",
   "assessment": {
     "recommendation": "BUY / REQUEST QUOTE",
     "short": "Looks like a reasonable buying window. Request a quote if the tank needs refill.",
@@ -37,23 +37,23 @@
     "local_best": {
       "3000": {
         "Change": 0,
-        "DateTime": "2026-06-20T09:26:37.4848931+02:00",
+        "DateTime": "2026-06-20T09:26:55.1442452+02:00",
         "Price": 108.38
       },
       "5000": {
         "Change": 0,
-        "DateTime": "2026-06-20T09:26:37.6009532+02:00",
+        "DateTime": "2026-06-20T09:26:55.2643013+02:00",
         "Price": 107.38
       },
       "10000": {
         "Change": 0,
-        "DateTime": "2026-06-20T09:26:37.7230009+02:00",
+        "DateTime": "2026-06-20T09:26:55.3707743+02:00",
         "Price": 106.21
       }
     },
     "national_best": {
       "Change": 0,
-      "DateTime": "2026-06-20T09:26:37.8385309+02:00",
+      "DateTime": "2026-06-20T09:26:55.4952192+02:00",
       "Price": 112.62
     },
     "faq": {
