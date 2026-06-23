@@ -1,20 +1,18 @@
 {
-  "updated_at": "2026-06-22T07:30:17+02:00",
+  "updated_at": "2026-06-23T07:30:19+02:00",
   "assessment": {
     "recommendation": "CONSIDER BUYING SOON",
     "short": "Prices look acceptable after the 3-month drop, but not a screaming low. Consider a quote.",
-    "score": 2,
+    "score": 1,
     "reasons": [
-      "Swiss benchmark is 39.14 CHF/100l below 3 months ago",
-      "1-week move is higher (+2.56 CHF/100l)",
-      "3,000l benchmark is close to the 3-year average (108.38 vs 106.36)",
-      "market news has upward-risk language: fester, stützt, angespannt, unsicherheit",
+      "Swiss benchmark is 34.97 CHF/100l below 3 months ago",
+      "1-week move is higher (+1.37 CHF/100l)",
+      "market news has upward-risk language: fester, stützt, unsicherheit, hormus",
       "market news still has price-window/downward language: unter druck, drückt"
     ],
     "up_hits": [
       "fester",
       "stützt",
-      "angespannt",
       "unsicherheit",
       "hormus",
       "iran"
@@ -24,12 +22,12 @@
       "drückt"
     ],
     "price_position": {
-      "local_3000": 108.38,
-      "local_5000": 107.38,
-      "national": 112.62,
-      "diff_1w": 2.56,
-      "diff_3m": -39.14,
-      "avg_3y": 106.36,
+      "local_3000": 110.65,
+      "local_5000": 107.94,
+      "national": 111.07,
+      "diff_1w": 1.37,
+      "diff_3m": -34.97,
+      "avg_3y": 106.37,
       "low_3y": 89.57,
       "high_3y": 164.12
     }
@@ -38,27 +36,27 @@
     "local_best": {
       "3000": {
         "Change": 0,
-        "DateTime": "2026-06-22T07:30:09.8209632+02:00",
-        "Price": 108.38
+        "DateTime": "2026-06-23T07:30:15.8366846+02:00",
+        "Price": 110.65
       },
       "5000": {
         "Change": 0,
-        "DateTime": "2026-06-22T07:30:09.9431738+02:00",
-        "Price": 107.38
+        "DateTime": "2026-06-23T07:30:15.9557562+02:00",
+        "Price": 107.94
       }
     },
     "national_best": {
       "Change": 0,
-      "DateTime": "2026-06-22T07:30:10.0559103+02:00",
-      "Price": 112.62
+      "DateTime": "2026-06-23T07:30:16.0807946+02:00",
+      "Price": 111.07
     },
     "faq": {
-      "countryAvg": 112.62,
-      "diffrence1W": 2.56,
-      "diffrence3M": -39.14,
+      "countryAvg": 111.07,
+      "diffrence1W": 1.37,
+      "diffrence3M": -34.97,
       "low3Y": 89.57,
       "high3Y": 164.12,
-      "average3Y": 106.36,
+      "average3Y": 106.37,
       "low3YDate": "2025-06-01T00:00:00",
       "high3YDate": "2026-04-06T00:00:00"
     },
@@ -67,74 +65,81 @@
         {
           "Id": 1,
           "Name": "Nordseeöl",
-          "Price": 78.84,
+          "Price": 77.47,
           "Currency": "$",
           "Unit": "Barrel",
-          "Change": -0.0192
+          "Change": -0.0082
         },
         {
           "Id": 2,
           "Name": "Gasöl",
-          "Price": 890.5,
+          "Price": 869,
           "Currency": "$",
           "Unit": "Tonne",
-          "Change": -0.0174
+          "Change": -0.0054
         },
         {
           "Id": 3,
           "Name": "Euro/Dollar",
-          "Price": 1.1459,
+          "Price": 1.1423,
           "Currency": "$",
           "Unit": "",
-          "Change": -0.0003
+          "Change": -0.0004
         },
         {
           "Id": 4,
           "Name": "USD/CHF",
-          "Price": 0.8081,
+          "Price": 0.8091,
           "Currency": "CHF",
           "Unit": "",
-          "Change": 0.0015
+          "Change": 0.0011
         },
         {
           "Id": 5,
           "Name": "US-Rohöl",
-          "Price": 76.32,
+          "Price": 73.61,
           "Currency": "$",
           "Unit": "Barrel",
-          "Change": -0.0157
+          "Change": -0.0162
         },
         {
           "Id": 6,
           "Name": "Rohöl in Euro",
-          "Price": 68.8078198638506,
+          "Price": 67.81931191455834,
           "Currency": "€",
           "Unit": "Barrel",
-          "Change": -0.0186
+          "Change": -0.0079
         },
         {
           "Id": 7,
           "Name": "Gasöl in Euro",
-          "Price": 777.1184222008902,
+          "Price": 760.7458636085091,
           "Currency": "€",
           "Unit": "Tonne",
-          "Change": -0.0171
+          "Change": -0.005
         }
       ],
       "Forecast": 0,
       "HasForecast": false,
-      "TimeStamp": "2026-06-22T00:00:00",
-      "Price": 112.62,
+      "TimeStamp": "2026-06-23T00:00:00",
+      "Price": 111.07,
       "Change": 0
     },
     "zurich": {
       "GroupTitle": 336,
       "Link": null,
-      "DateTime": "2026-06-22T00:00:00",
-      "Price": 110.25
+      "DateTime": "2026-06-23T00:00:00",
+      "Price": 110.21
     }
   },
   "news": [
+    {
+      "source": "Oel-Hauser Marktinfos",
+      "title": "Ölmarkt zwischen Hormus-Risko und Hoffnung aus der Schweiz",
+      "date": "22. Juni 2026",
+      "summary": "Die Ölpreise bleiben von den Spannungen im Nahen Osten geprägt. Nachdem der Iran am Wochenende erneut eine Sperrung der Strasse von Hormus angekündigt und US-Präsident Donald Trump mit scharfen Drohungen reagiert hatte, sorgten überraschend konstruktive Gespräche zwischen den USA und Iran in der Schweiz für Entspannung an den Märkten. Die Delegationen einigten sich auf einen Fahrplan für ein mögliches Friedensabkommen innerhalb von 60 Tagen. Gleichzeitig soll ein direkter Kommunikationskanal helfen, Zwischenfälle in der Strasse von Hormus zu vermeiden. Dennoch bleiben die Risiken hoch, da die Kämpfe im Libanon anhalten und Analysten vor einem erneuten Aufflammen der Spannungen warnen. An den",
+      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/oelmarkt-zwischen-hormus-risko-und-hoffnung-aus-der-schweiz"
+    },
     {
       "source": "Oel-Hauser Marktinfos",
       "title": "Unsicherheit um USA-Iran-Verhandlungen stützt Preise trotz Friedensabkommen",
@@ -157,11 +162,9 @@
       "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/preise-weiter-unter-druck"
     },
     {
-      "source": "Oel-Hauser Marktinfos",
-      "title": "Zwischen Euphorie und Vorsicht – Ölmarkt bleibt nach Iran-Abkommen angespannt",
-      "date": "16. Juni 2026",
-      "summary": "Die Ölpreise sind zu Wochenbeginn deutlich gesunken, nachdem sich die USA und der Iran auf ein vorläufiges Abkommen verständigt haben. Die Aussicht auf eine Entspannung im Nahen Osten und mögliche Lockerungen von Sanktionen sorgte zunächst für Optimismus an den Märkten. Trotz der positiven Signale bleiben jedoch erhebliche Unsicherheiten bestehen. Besonders die Lage in der Strasse von Hormus, einer der wichtigsten Öltransitrouten der Welt, sorgt weiterhin für Zurückhaltung. Die Räumung von Minen könnte sich über Wochen hinziehen, zudem plant der Iran offenbar künftig Transitgebühren für die Passage zu erheben. Marktteilnehmer gehen daher davon aus, dass eine vollständige Normalisierung der Ö",
-      "url": "https://www.oelhauser.ch/info-center/marktinfos/detail/zwischen-euphorie-und-vorsicht-oelmarkt-bleibt-nach-iran-abkommen-angespannt"
+      "source": "HeizOel24",
+      "title": "Hormus Auf Hormus Zu Oelpreise Pendeln Hin Und Her 22 06 2026",
+      "url": "https://www.heizoel24.ch/news/artikel/005289-hormus-auf-hormus-zu-oelpreise-pendeln-hin-und-her-22-06-2026"
     },
     {
       "source": "HeizOel24",
@@ -172,11 +175,6 @@
       "source": "HeizOel24",
       "title": "Iran Deal Ist Besiegelt Heizoel Wird Guenstiger 18 06 2026",
       "url": "https://www.heizoel24.ch/news/artikel/005287-iran-deal-ist-besiegelt-heizoel-wird-guenstiger-18-06-2026"
-    },
-    {
-      "source": "HeizOel24",
-      "title": "Heizoel Strategie Update 2026 Die Gelegenheit Ist Guenstig 17 06 2026",
-      "url": "https://www.heizoel24.ch/news/artikel/005286-heizoel-strategie-update-2026-die-gelegenheit-ist-guenstig-17-06-2026"
     }
   ],
   "chart": {
@@ -185,139 +183,139 @@
       "note": "Weekly samples from HeizOel24 public history, 3,000l benchmark.",
       "points": [
         {
-          "date": "2025-12-22",
-          "price": 91.61,
-          "demand": 21.077551020408166
+          "date": "2025-12-23",
+          "price": 90.31,
+          "demand": 16.244897959183675
         },
         {
-          "date": "2025-12-29",
-          "price": 90.9,
-          "demand": 28.19591836734694
+          "date": "2025-12-30",
+          "price": 91.15,
+          "demand": 27.706122448979592
         },
         {
-          "date": "2026-01-05",
-          "price": 91.2,
-          "demand": 25.518367346938774
+          "date": "2026-01-06",
+          "price": 90.49,
+          "demand": 22.987755102040815
         },
         {
-          "date": "2026-01-12",
-          "price": 91.35,
-          "demand": 18.13877551020408
+          "date": "2026-01-13",
+          "price": 94.57,
+          "demand": 13.175510204081634
         },
         {
-          "date": "2026-01-19",
-          "price": 94.02,
-          "demand": 14.62857142857143
+          "date": "2026-01-20",
+          "price": 94.69,
+          "demand": 13.142857142857142
         },
         {
-          "date": "2026-01-26",
-          "price": 94.47,
-          "demand": 16.3265306122449
+          "date": "2026-01-27",
+          "price": 94.25,
+          "demand": 15.80408163265306
         },
         {
-          "date": "2026-02-02",
-          "price": 94.98,
-          "demand": 20.06530612244898
+          "date": "2026-02-03",
+          "price": 94.35,
+          "demand": 20.146938775510204
         },
         {
-          "date": "2026-02-09",
-          "price": 93.22,
-          "demand": 17.453061224489797
+          "date": "2026-02-10",
+          "price": 92.61,
+          "demand": 13.942857142857143
         },
         {
-          "date": "2026-02-16",
-          "price": 91.4,
-          "demand": 21.142857142857142
+          "date": "2026-02-17",
+          "price": 91.45,
+          "demand": 15.232653061224491
         },
         {
-          "date": "2026-02-23",
-          "price": 96.53,
-          "demand": 10.448979591836736
+          "date": "2026-02-24",
+          "price": 95.7,
+          "demand": 8.702040816326532
         },
         {
-          "date": "2026-03-02",
-          "price": 115.03,
-          "demand": 40.60408163265306
+          "date": "2026-03-03",
+          "price": 124.65,
+          "demand": 19.706122448979592
         },
         {
-          "date": "2026-03-09",
-          "price": 125.87,
+          "date": "2026-03-10",
+          "price": 118.01,
+          "demand": 5.616326530612245
+        },
+        {
+          "date": "2026-03-17",
+          "price": 131.63,
+          "demand": 6.938775510204081
+        },
+        {
+          "date": "2026-03-24",
+          "price": 143.38,
+          "demand": 10.710204081632654
+        },
+        {
+          "date": "2026-03-31",
+          "price": 144.54,
+          "demand": 13.044897959183674
+        },
+        {
+          "date": "2026-04-07",
+          "price": 158.18,
+          "demand": 10.644897959183673
+        },
+        {
+          "date": "2026-04-14",
+          "price": 131.43,
+          "demand": 12.359183673469387
+        },
+        {
+          "date": "2026-04-21",
+          "price": 126.5,
+          "demand": 15.510204081632653
+        },
+        {
+          "date": "2026-04-28",
+          "price": 133.04,
           "demand": 6.677551020408163
         },
         {
-          "date": "2026-03-16",
-          "price": 130.7,
+          "date": "2026-05-05",
+          "price": 134.26,
           "demand": 6.693877551020408
         },
         {
-          "date": "2026-03-23",
-          "price": 146.04,
-          "demand": 9.289795918367346
+          "date": "2026-05-12",
+          "price": 128.16,
+          "demand": 12.702040816326532
         },
         {
-          "date": "2026-03-30",
-          "price": 152.57,
-          "demand": 13.257142857142856
+          "date": "2026-05-19",
+          "price": 127.86,
+          "demand": 9.779591836734694
         },
         {
-          "date": "2026-04-06",
-          "price": 164.12,
-          "demand": 5.714285714285714
+          "date": "2026-05-26",
+          "price": 119.75,
+          "demand": 17.338775510204083
         },
         {
-          "date": "2026-04-13",
-          "price": 141.12,
-          "demand": 14.285714285714285
+          "date": "2026-06-02",
+          "price": 119.61,
+          "demand": 8.06530612244898
         },
         {
-          "date": "2026-04-20",
-          "price": 125.23,
-          "demand": 17.66530612244898
+          "date": "2026-06-09",
+          "price": 117.15,
+          "demand": 12.73469387755102
         },
         {
-          "date": "2026-04-27",
-          "price": 136.07,
-          "demand": 6.906122448979592
+          "date": "2026-06-16",
+          "price": 109.7,
+          "demand": 10.791836734693877
         },
         {
-          "date": "2026-05-04",
-          "price": 137.57,
-          "demand": 8.261224489795918
-        },
-        {
-          "date": "2026-05-11",
-          "price": 123.74,
-          "demand": 11.83673469387755
-        },
-        {
-          "date": "2026-05-18",
-          "price": 130.1,
-          "demand": 12.489795918367347
-        },
-        {
-          "date": "2026-05-25",
-          "price": 119.37,
-          "demand": 5.583673469387755
-        },
-        {
-          "date": "2026-06-01",
-          "price": 123.92,
-          "demand": 16.19591836734694
-        },
-        {
-          "date": "2026-06-08",
-          "price": 120.32,
-          "demand": 9.583673469387755
-        },
-        {
-          "date": "2026-06-15",
-          "price": 110.06,
-          "demand": 15.575510204081633
-        },
-        {
-          "date": "2026-06-22",
-          "price": 112.62,
-          "demand": 1.1755102040816325
+          "date": "2026-06-23",
+          "price": 111.07,
+          "demand": 1.0448979591836736
         }
       ]
     },
@@ -326,164 +324,164 @@
       "note": "Every-third-day samples from HeizOel24 public history, 3,000l benchmark.",
       "points": [
         {
-          "date": "2026-03-22",
-          "price": 151.76,
-          "demand": 7.134693877551021
+          "date": "2026-03-23",
+          "price": 146.04,
+          "demand": 9.289795918367346
         },
         {
-          "date": "2026-03-25",
-          "price": 132.77,
-          "demand": 11.983673469387755
-        },
-        {
-          "date": "2026-03-28",
-          "price": 158.59,
-          "demand": 6.448979591836734
-        },
-        {
-          "date": "2026-03-31",
-          "price": 144.54,
-          "demand": 13.044897959183674
-        },
-        {
-          "date": "2026-04-03",
-          "price": 164.12,
-          "demand": 3.2653061224489797
-        },
-        {
-          "date": "2026-04-06",
-          "price": 164.12,
-          "demand": 5.714285714285714
-        },
-        {
-          "date": "2026-04-09",
-          "price": 148.99,
-          "demand": 11.10204081632653
-        },
-        {
-          "date": "2026-04-12",
-          "price": 137.74,
-          "demand": 14.138775510204082
-        },
-        {
-          "date": "2026-04-15",
-          "price": 131.2,
-          "demand": 9.975510204081631
-        },
-        {
-          "date": "2026-04-18",
-          "price": 129.82,
+          "date": "2026-03-26",
+          "price": 141.49,
           "demand": 10.628571428571428
         },
         {
-          "date": "2026-04-21",
-          "price": 126.5,
-          "demand": 15.510204081632653
+          "date": "2026-03-29",
+          "price": 158.59,
+          "demand": 8.522448979591838
         },
         {
-          "date": "2026-04-24",
+          "date": "2026-04-01",
+          "price": 140.87,
+          "demand": 12.22857142857143
+        },
+        {
+          "date": "2026-04-04",
+          "price": 164.12,
+          "demand": 3.8040816326530615
+        },
+        {
+          "date": "2026-04-07",
+          "price": 158.18,
+          "demand": 10.644897959183673
+        },
+        {
+          "date": "2026-04-10",
+          "price": 137.74,
+          "demand": 6.791836734693877
+        },
+        {
+          "date": "2026-04-13",
+          "price": 141.12,
+          "demand": 14.285714285714285
+        },
+        {
+          "date": "2026-04-16",
+          "price": 134.07,
+          "demand": 8.685714285714285
+        },
+        {
+          "date": "2026-04-19",
+          "price": 129.82,
+          "demand": 8.522448979591838
+        },
+        {
+          "date": "2026-04-22",
+          "price": 131.69,
+          "demand": 9.714285714285714
+        },
+        {
+          "date": "2026-04-25",
           "price": 134.87,
-          "demand": 5.551020408163265
+          "demand": 3.036734693877551
         },
         {
-          "date": "2026-04-27",
-          "price": 136.07,
-          "demand": 6.906122448979592
+          "date": "2026-04-28",
+          "price": 133.04,
+          "demand": 6.677551020408163
         },
         {
-          "date": "2026-04-30",
-          "price": 137.43,
-          "demand": 3.7224489795918365
-        },
-        {
-          "date": "2026-05-03",
+          "date": "2026-05-01",
           "price": 137.01,
-          "demand": 3.0530612244897957
+          "demand": 2.3836734693877553
         },
         {
-          "date": "2026-05-06",
-          "price": 126.58,
-          "demand": 12.19591836734694
+          "date": "2026-05-04",
+          "price": 137.57,
+          "demand": 8.261224489795918
         },
         {
-          "date": "2026-05-09",
-          "price": 127.02,
-          "demand": 4.73469387755102
+          "date": "2026-05-07",
+          "price": 121.73,
+          "demand": 13.648979591836735
         },
         {
-          "date": "2026-05-12",
-          "price": 128.16,
-          "demand": 12.702040816326532
+          "date": "2026-05-10",
+          "price": 126.94,
+          "demand": 4.86530612244898
         },
         {
-          "date": "2026-05-15",
-          "price": 127.99,
-          "demand": 9.616326530612245
+          "date": "2026-05-13",
+          "price": 129.58,
+          "demand": 8.16326530612245
         },
         {
-          "date": "2026-05-18",
-          "price": 130.1,
-          "demand": 12.489795918367347
+          "date": "2026-05-16",
+          "price": 128.15,
+          "demand": 5.893877551020408
         },
         {
-          "date": "2026-05-21",
-          "price": 126.71,
-          "demand": 17.73061224489796
+          "date": "2026-05-19",
+          "price": 127.86,
+          "demand": 9.779591836734694
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-05-22",
           "price": 123.8,
-          "demand": 3.9183673469387754
+          "demand": 14.62857142857143
         },
         {
-          "date": "2026-05-27",
-          "price": 116.09,
-          "demand": 12.440816326530612
+          "date": "2026-05-25",
+          "price": 119.37,
+          "demand": 5.583673469387755
         },
         {
-          "date": "2026-05-30",
+          "date": "2026-05-28",
+          "price": 114.91,
+          "demand": 16.946938775510205
+        },
+        {
+          "date": "2026-05-31",
           "price": 116.46,
-          "demand": 6.383673469387754
+          "demand": 6.840816326530612
         },
         {
-          "date": "2026-06-02",
-          "price": 119.61,
-          "demand": 8.06530612244898
+          "date": "2026-06-03",
+          "price": 124.19,
+          "demand": 7.346938775510205
         },
         {
-          "date": "2026-06-05",
+          "date": "2026-06-06",
           "price": 118.77,
-          "demand": 6.040816326530613
+          "demand": 3.7551020408163263
         },
         {
-          "date": "2026-06-08",
-          "price": 120.32,
-          "demand": 9.583673469387755
+          "date": "2026-06-09",
+          "price": 117.15,
+          "demand": 12.73469387755102
         },
         {
-          "date": "2026-06-11",
-          "price": 118.37,
-          "demand": 19.640816326530615
+          "date": "2026-06-12",
+          "price": 114.48,
+          "demand": 34.61224489795918
         },
         {
-          "date": "2026-06-14",
-          "price": 114.42,
-          "demand": 9.257142857142856
+          "date": "2026-06-15",
+          "price": 110.06,
+          "demand": 15.575510204081633
         },
         {
-          "date": "2026-06-17",
-          "price": 108.79,
-          "demand": 15.559183673469388
+          "date": "2026-06-18",
+          "price": 106.29,
+          "demand": 12.03265306122449
         },
         {
-          "date": "2026-06-20",
+          "date": "2026-06-21",
           "price": 112.62,
-          "demand": 14.955102040816326
+          "demand": 12.065306122448979
         },
         {
-          "date": "2026-06-22",
-          "price": 112.62,
-          "demand": 1.1755102040816325
+          "date": "2026-06-23",
+          "price": 111.07,
+          "demand": 1.0448979591836736
         }
       ]
     },
@@ -492,9 +490,9 @@
       "note": "Monthly samples from HeizOel24 public history, 3,000l benchmark.",
       "points": [
         {
-          "date": "2023-06-22",
-          "price": 107.5,
-          "demand": 4.8979591836734695
+          "date": "2023-06-23",
+          "price": 105.56,
+          "demand": 9.893877551020408
         },
         {
           "date": "2023-07-01",
@@ -677,9 +675,9 @@
           "demand": 16.19591836734694
         },
         {
-          "date": "2026-06-22",
-          "price": 112.62,
-          "demand": 1.1755102040816325
+          "date": "2026-06-23",
+          "price": 111.07,
+          "demand": 1.0448979591836736
         }
       ]
     }
